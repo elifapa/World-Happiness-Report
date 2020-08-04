@@ -4,7 +4,7 @@ Goal is to see how happiness scores in 2015-2019 vary across the world. Also to 
 ## Data Source:
 This dataset can be found on [kaggle](https://www.kaggle.com/unsdsn/world-happiness). It is uploaded by Sustainable Development Solutions Network. You can also find the metadata there, also how Happiness Score is calculated is explained there.  
 ## Data Description:  
-This dataset consists of 5 csv files for each year. Average datapoint in each file is around 156.
+This dataset consists of 5 csv files for each year. Average datapoint in each file is around 156. Each datapoint represents a country.
 ## Conclusion:  
 
 In the first plot, you can see the mean happiness scores for 2015-2019 data for each region. This data is specifically important because one may observe how scores of countries vary within the region. Australia and New Zealand, as well as North America varies the least, since this dataset did not break down the data to countries or states for these regions. Data varies significantly in Middle East region as one may see from the whiskers.
